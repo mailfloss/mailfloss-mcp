@@ -1,0 +1,14 @@
+{
+  "name": "mailfloss",
+  "version": "1.0.0",
+  "description": "Email verification for AI agents: verify an address or a whole list, check credits and usage, and manage the email platforms mailfloss keeps clean.",
+  "author": {
+    "name": "mailfloss",
+    "email": "hello@mailfloss.com"
+  },
+  "homepage": "https://developers.mailfloss.com/mcp",
+  "repository": "https://github.com/mailfloss/mailfloss-mcp",
+  "license": "MIT",
+  "keywords": ["email verification", "email list cleaning", "deliverability", "mcp"],
+  "logo": "assets/logo.png"
+}

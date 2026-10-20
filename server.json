@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.mailfloss/mailfloss",
+  "title": "mailfloss",
+  "description": "Email verification for AI agents: verify addresses and lists, check credits, manage integrations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://developers.mailfloss.com/mcp",
+  "icons": [
+    {
+      "src": "https://mailfloss.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mailfloss.com/mcp"
+    }
+  ]
+}
